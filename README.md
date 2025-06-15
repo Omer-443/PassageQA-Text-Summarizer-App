@@ -200,7 +200,5 @@ This project is licensed under the [MIT License](LICENSE).
 For questions, contact us via the “Contact Us” page in the app or email at:
 📧 **[official.omerfaisal@gmail.com](mailto:official.omerfaisal@gmail.com)**
 
-```
 
----
 
